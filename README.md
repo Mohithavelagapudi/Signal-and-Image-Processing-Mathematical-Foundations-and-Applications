@@ -82,14 +82,14 @@ $$
 Thus, retaining a small subset of low-frequency terms preserves most visual information.
 
 ---
-### Getting Started
+### 🔑 Getting Started
 
 - Requirements: MATLAB (or GNU Octave for most scripts), sample images/audio files as referenced in the code.
 - Usage: Run individual .m files to explore each concept. Modify parameters (e.g., compression ratio, number of clusters) to observe effects.
 - Visualization: Most scripts include plotting for intuitive understanding.
 
 ---
-### Acknowledgements
+### 🧠 Acknowledgements
 
 This repository is the result of hands-on experimentation and learning in the field of signal and image processing, with inspiration from academic coursework and open-source contributions.
 
